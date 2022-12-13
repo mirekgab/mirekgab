@@ -1,5 +1,5 @@
-### Hi there 👋
-README from mirekgab repository
+### Welcome on my Github pages.
+
 
 <!--
 **mirekgab/mirekgab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
